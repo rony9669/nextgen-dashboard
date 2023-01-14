@@ -84,7 +84,7 @@ const Chart = () => {
             </ul>
           </div>
           <button className="btn btn-sm btn-primary lg:mb-0 mb-2 text-white capitalize">
-            Details
+            Export Details
           </button>
         </div>
         <div className="text-[10px]">
