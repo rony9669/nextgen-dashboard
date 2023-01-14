@@ -8,7 +8,7 @@ const EmptyContent = () => {
      mt-12"
     >
       <MdOutlineUpcoming className="text-2xl text-primary" />
-      <h2 className="text-5xl font-extrabold">Und Processing</h2>
+      <h2 className="text-5xl font-extrabold">Under Processing</h2>
     </div>
   );
 };
