@@ -1,4 +1,4 @@
-.mainproggress {
+.progress {
   position: relative;
   background: rgba(0, 0, 0, 0.05);
   border-radius: 5px;
@@ -6,7 +6,7 @@
   padding: 2px 4px;
   font-size: 12px;
 }
-.mainproggress p::after {
+.progress p::after {
   content: "";
   position: absolute;
   top: 0;

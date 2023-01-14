@@ -12,7 +12,7 @@ export const Summary = () => {
         <div className="mb-5">
           <div className="mt-[28px]">
             <p className="mb-1">Completed</p>
-            <div className="mainproggress">
+            <div className="progress">
               <p className={`after:w-[60%] `}>
                 {" "}
                 <span className="text-slate-400">50</span>/80
@@ -20,14 +20,14 @@ export const Summary = () => {
             </div>
           </div>
           <div className="mt-[28px]">
-            <p className="mb-1">In Proggress</p>
-            <div className="mainproggress">
+            <p className="mb-1">In Progress</p>
+            <div className="progress">
               <p className="after:w-[5%] ">15/112</p>
             </div>
           </div>
           <div className="mt-[28px]">
             <p className="mb-1">Pending</p>
-            <div className="mainproggress">
+            <div className="progress">
               <p className="after:w-[30%]">30/80</p>
             </div>
           </div>
