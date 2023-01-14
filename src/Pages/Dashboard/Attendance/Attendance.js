@@ -7,7 +7,7 @@ const Attendance = () => {
   return (
     <div className="pl-4 mt-5 mb-5 mr-5">
       <div className="flex lg:flex-row md:flex-row flex-col justify-between items-center mb-5 ">
-        <h4 className=" lg:text-[26px] text-3xl font-bold">Attendance</h4>
+        <h4 className=" lg:text-[26px] text-3xl font-bold"></h4>
         <div className="flex justify-end items-center">
           <button className="btn btn-sm btn-primary capitalize mr-8 text-white rounded">
             Download Report
