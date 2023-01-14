@@ -24,7 +24,7 @@ export const Table = () => {
               </div>
             </th>
             <th scope="col" class="px-6 py-3">
-              Employee Name
+              Name
             </th>
             <th scope="col" class="px-6 py-3">
               Department
